@@ -5,6 +5,7 @@ This is an example Gridsome source plugin
 It uses Harry Potter data to create a Gridsome collection.
 
 Check out tutorial video here: https://www.youtube.com/watch?v=V50mHzzFFaA
+
 Visit https://timbenniks.nl for more.
 
 ## Implementation
